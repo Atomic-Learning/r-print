@@ -1,22 +1,16 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "R: The Print Function",
+    "slug": "r-print",
+    "description": "An introduction to the print function in R.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "r"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
     ]
 }
